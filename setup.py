@@ -12,6 +12,6 @@ setup(name='pacote_preco',
     url='https://github.com/ajikisan/pacote_preco',
     author_email='ajikisan@hotmail.com',
     keywords='valor preco',
-    description=u'Cálculo de valor de preço',
-    packages=['valor_preco', 'dado', 'preco'],
+    description=u'Calculo de valor de preco',
+    packages=['valor_preco'],
     python_requires='>=3.8',)

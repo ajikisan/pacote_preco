@@ -1,0 +1,8 @@
+LICENCE
+README.md
+setup.py
+pacote_preco.egg-info/PKG-INFO
+pacote_preco.egg-info/SOURCES.txt
+pacote_preco.egg-info/dependency_links.txt
+pacote_preco.egg-info/top_level.txt
+valor_preco/__init__.py

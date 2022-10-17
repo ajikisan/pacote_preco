@@ -1,3 +1,17 @@
+Metadata-Version: 2.1
+Name: pacote-preco
+Version: 0.0.1
+Summary: Calculo de valor de preco
+Home-page: https://github.com/ajikisan/pacote_preco
+Author: Mirian Ajiki Molicawa
+Author-email: ajikisan@hotmail.com
+License: MIT License
+Keywords: valor preco
+Platform: UNKNOWN
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+License-File: LICENCE
+
 <p>
 <br>  Digital Innovation One, Curso em Video, Phytonando
 <br>  Descomplicando a criacao de pacotes em Python
@@ -10,7 +24,7 @@
 <br> - [x] Visual Studio Code
 <br> - [x] Phyton V3 
 <br> - [x] [Teste Pypi](https://pypi.org/)
-<br> - [x] [Produção Pypi](https://pypi.org/)
+<br> - [x] [ProduÃ§Ã£o Pypi](https://pypi.org/)
 </p>
 
 <br> Pypi: Repositorio publico oficial de pacotes
@@ -22,14 +36,14 @@
 
 <br> Projeto: pacote_preco
 <br> Pacote: valor_preco
-<br> Modulos: dado, preco
+<br> MÃ³dulos: dado, preco
 <br> Programa: teste
 
 </p>
 
 <h2> Preco </h2>
-<br> Tem as funcoes: aumentar, diminuir, dobro e metade do valor do preço
-<br> - Parametro Preço: O preço a ser calculado
+<br> Tem as funcoes: aumentar, diminuir, dobro e metade do valor do preÃ§o
+<br> - Parametro PreÃ§o: O preÃ§o a ser calculado
 <br> - Parametro Taxa: porcentagem do aumento e diminuicao
 <br> - Parametro Formato: Sendo verdadeiro traz formatado a casa decimal
 <br> - Return: Traz o valor calculado
@@ -45,4 +59,6 @@
 </p>
 
 <h2> Teste</h2>
-<br> Atraves da importacao dos pacotes e modulos, calcula-se o valor do preço informado.
+<br> Atraves da importacao dos pacotes e modulos, calcula-se o valor do preÃ§o informado.
+
+
