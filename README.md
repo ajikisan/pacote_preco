@@ -46,3 +46,6 @@
 
 <h2> Teste</h2>
 <br> Atraves da importacao dos pacotes e modulos, calcula-se o valor do preço informado.
+
+View at:
+https://pypi.org/project/pacote-preco/0.0.1/
